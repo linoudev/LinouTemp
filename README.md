@@ -1,6 +1,6 @@
 # linoutemp
 ## extremly shitcoded, good luck trying to do anything with this :D
-a kernel temporary swoofer and cleaner tool for fortnite. maps unsigned drivers using a vulnerable intel driver exploit (iqvw64e.sys) and provides hardware trace cleaning utilities. made by [linoucat](https://github.com/linoucat)
+a kernel temporary swoofer and cleaner tool for fortnite. maps unsigned drivers using a vulnerable intel driver exploit (iqvw64e.sys) and provides hardware trace cleaning utilities. made by [linoudev](https://github.com/linoudev)
 
 ## features
 
