@@ -4,7 +4,7 @@
 #include "term.hpp"
 #include "run.hpp"
 // welcome to this horrible temp woofer, semi pasted and detected asf.
-// made by https://github.com/linoucat
+// made by https://github.com/linoudev
 // consider joining https://discord.gg/linouservices
 // i hope you enjoy this terrible temp source <3
 int main() {
