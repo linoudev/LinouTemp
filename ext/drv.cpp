@@ -13,7 +13,6 @@
 #ifdef PDB_OFFSETS
 #include "sym.h"
 #endif
-// i will NOT try to explain this here
 typedef struct _COPY_MEMORY_BUFFER_INFO
 {
 	uint64_t case_number;
